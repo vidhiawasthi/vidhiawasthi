@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidhi Awasthi</h1>
 <h3 align="center">A enthusiastic Electronics & Telecommunication Engineering Student</h3>
 
-- 🔭 I’m currently working on **GATE ECE'26**
+- 🔭 I’m currently working on **VLSI**
 
 - 🌱 Learning for **GATE ECE'26**
 
