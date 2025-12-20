@@ -8,6 +8,8 @@
 - 🤝 Seeking guidance in **career growth**
 
 - 💬 Ask me about **Electronics**
+  
+- 🎖️ **NCC Cadet | Leadership & Discipline | Camp-level Achievements**
 
 - 📫 How to reach me **awasthividhi123@gmail.com**
 
